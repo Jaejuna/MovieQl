@@ -1,0 +1,15 @@
+{
+  "name": "MovieQl",
+  "version": "1.0.0",
+  "description": "Movie Api with GraphQl",
+  "main": "index.js",
+  "repository": "https://github.com/Jaejuna/MovieQl.git",
+  "author": "Jaejuna <anayana9988@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  }
+}
